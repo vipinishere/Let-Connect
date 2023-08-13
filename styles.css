@@ -2,3 +2,14 @@
 #font-weight-bold {
     font-family: 'Caprasimo', cursive;
 }
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+}
+
+#footer a {
+  color: black;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
